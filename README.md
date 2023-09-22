@@ -8,7 +8,7 @@ Welcome to the **R-Code Odyssey**, a thrilling adventure through the captivating
 ## Basics
 
 1. [Overview of R Language](1.Basic/1-%20Overview%20of%20R%20Language.ipynb)
-   - Learn the fundamentals of the R programming language.
+   - Overview of the R programming language.
 
 2. [Numeric and Character Variables](1.Basic/2-Numeric%20and%20Character%20Variables.ipynb)
    - Explore how to work with numeric and character variables in R.
